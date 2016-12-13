@@ -1,0 +1,1531 @@
+before adapting:
+952 tets, quality [0.51,0.99], 952 >0.30
+1446 edges, length [0.68,2.33], 3 <0.71, 1262 in [0.71,1.41], 181 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 0
+0.40-0.50: 0
+0.50-0.60: 12
+0.60-0.70: 71
+0.70-0.80: 288
+0.80-0.90: 436
+0.90-1.00: 145
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 0
+0.40-0.60: 0
+0.60-0.80: 46
+0.80-1.00: 425
+1.00-1.20: 484
+1.20-1.40: 288
+1.40-1.60: 139
+1.60-1.80: 45
+1.80-2.00: 13
+addressing edge lengths
+refining 75 edges
+1214 tets, quality [0.38,0.99], 1214 >0.30
+1814 edges, length [0.52,2.21], 52 <0.71, 1650 in [0.71,1.41], 112 >1.41
+coarsening 4 vertices
+1199 tets, quality [0.38,0.99], 1199 >0.30
+1794 edges, length [0.58,2.21], 47 <0.71, 1635 in [0.71,1.41], 112 >1.41
+refining 56 edges
+1452 tets, quality [0.31,0.99], 1452 >0.30
+2114 edges, length [0.37,2.05], 157 <0.71, 1894 in [0.71,1.41], 63 >1.41
+coarsening 31 vertices
+1339 tets, quality [0.31,0.99], 1339 >0.30
+1964 edges, length [0.42,2.05], 83 <0.71, 1820 in [0.71,1.41], 61 >1.41
+refining 39 edges
+1545 tets, quality [0.30,0.99], 2 in [0.20,0.30], 1543 >0.30
+2212 edges, length [0.32,2.05], 169 <0.71, 2016 in [0.71,1.41], 27 >1.41
+coarsening 25 vertices
+1449 tets, quality [0.30,0.99], 2 in [0.20,0.30], 1447 >0.30
+2089 edges, length [0.42,2.05], 105 <0.71, 1957 in [0.71,1.41], 27 >1.41
+refining 16 edges
+1534 tets, quality [0.21,0.99], 9 in [0.20,0.30], 1525 >0.30
+2191 edges, length [0.38,2.05], 145 <0.71, 2032 in [0.71,1.41], 14 >1.41
+coarsening 10 vertices
+1494 tets, quality [0.21,0.99], 6 in [0.20,0.30], 1488 >0.30
+2140 edges, length [0.41,2.05], 123 <0.71, 2004 in [0.71,1.41], 13 >1.41
+refining 6 edges
+1523 tets, quality [0.21,0.99], 6 in [0.20,0.30], 1517 >0.30
+2175 edges, length [0.27,2.03], 139 <0.71, 2029 in [0.71,1.41], 7 >1.41
+coarsening 6 vertices
+1495 tets, quality [0.22,0.99], 6 in [0.20,0.30], 1489 >0.30
+2141 edges, length [0.41,2.03], 122 <0.71, 2013 in [0.71,1.41], 6 >1.41
+refining 3 edges
+1508 tets, quality [0.22,0.99], 5 in [0.20,0.30], 1503 >0.30
+2157 edges, length [0.29,1.63], 134 <0.71, 2020 in [0.71,1.41], 3 >1.41
+coarsening 4 vertices
+1491 tets, quality [0.22,0.99], 3 in [0.20,0.30], 1488 >0.30
+2136 edges, length [0.29,1.63], 121 <0.71, 2013 in [0.71,1.41], 2 >1.41
+refining 2 edges
+1498 tets, quality [0.22,0.99], 3 in [0.20,0.30], 1495 >0.30
+2145 edges, length [0.29,1.41], 127 <0.71, 2018 in [0.71,1.41]
+coarsening 2 vertices
+1490 tets, quality [0.22,0.99], 2 in [0.20,0.30], 1488 >0.30
+2135 edges, length [0.29,1.41], 121 <0.71, 2014 in [0.71,1.41]
+coarsening 1 vertices
+1485 tets, quality [0.22,0.99], 2 in [0.20,0.30], 1483 >0.30
+2129 edges, length [0.41,1.41], 119 <0.71, 2010 in [0.71,1.41]
+coarsening 1 vertices
+1479 tets, quality [0.26,0.99], 1 in [0.20,0.30], 1478 >0.30
+2122 edges, length [0.45,1.41], 116 <0.71, 2006 in [0.71,1.41]
+coarsening 1 vertices
+1474 tets, quality [0.26,0.99], 1 in [0.20,0.30], 1473 >0.30
+2116 edges, length [0.45,1.41], 114 <0.71, 2002 in [0.71,1.41]
+laplacian solve took 1 iterations
+addressing element qualities
+swapping 5 3D edges
+1473 tets, quality [0.33,0.99], 1473 >0.30
+2115 edges, length [0.45,1.41], 114 <0.71, 2001 in [0.71,1.41]
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 5
+0.40-0.50: 13
+0.50-0.60: 63
+0.60-0.70: 208
+0.70-0.80: 419
+0.80-0.90: 578
+0.90-1.00: 187
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 0
+0.40-0.60: 23
+0.60-0.80: 301
+0.80-1.00: 701
+1.00-1.20: 663
+1.20-1.40: 400
+1.40-1.60: 27
+1.60-1.80: 0
+1.80-2.00: 0
+addressing edge lengths took 0.0850352 seconds
+snapping while addressing element qualities took 0.0163369 seconds
+adapting took 0.10213 seconds
+
+before adapting:
+1473 tets, quality [0.25,0.99], 1 in [0.20,0.30], 1472 >0.30
+2115 edges, length [0.49,2.10], 41 <0.71, 1794 in [0.71,1.41], 280 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 1
+0.30-0.40: 4
+0.40-0.50: 34
+0.50-0.60: 90
+0.60-0.70: 211
+0.70-0.80: 415
+0.80-0.90: 546
+0.90-1.00: 172
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 0
+0.40-0.60: 9
+0.60-0.80: 157
+0.80-1.00: 572
+1.00-1.20: 650
+1.20-1.40: 415
+1.40-1.60: 240
+1.60-1.80: 53
+1.80-2.00: 18
+addressing edge lengths
+refining 134 edges
+1972 tets, quality [0.25,0.99], 2 in [0.20,0.30], 1970 >0.30
+2801 edges, length [0.33,2.10], 231 <0.71, 2422 in [0.71,1.41], 148 >1.41
+coarsening 40 vertices
+1820 tets, quality [0.25,0.99], 3 in [0.20,0.30], 1817 >0.30
+2605 edges, length [0.39,2.10], 146 <0.71, 2311 in [0.71,1.41], 148 >1.41
+refining 83 edges
+2188 tets, quality [0.28,0.99], 2 in [0.20,0.30], 2186 >0.30
+3074 edges, length [0.30,1.98], 318 <0.71, 2689 in [0.71,1.41], 67 >1.41
+coarsening 54 vertices
+1986 tets, quality [0.33,0.99], 1986 >0.30
+2811 edges, length [0.35,1.98], 190 <0.71, 2555 in [0.71,1.41], 66 >1.41
+refining 52 edges
+2211 tets, quality [0.28,0.99], 1 in [0.20,0.30], 2210 >0.30
+3096 edges, length [0.27,1.98], 333 <0.71, 2749 in [0.71,1.41], 14 >1.41
+coarsening 42 vertices
+2049 tets, quality [0.31,0.99], 2049 >0.30
+2887 edges, length [0.35,1.98], 205 <0.71, 2668 in [0.71,1.41], 14 >1.41
+refining 11 edges
+2098 tets, quality [0.33,0.99], 2098 >0.30
+2949 edges, length [0.35,1.56], 238 <0.71, 2708 in [0.71,1.41], 3 >1.41
+coarsening 13 vertices
+2049 tets, quality [0.33,0.99], 2049 >0.30
+2884 edges, length [0.35,1.56], 206 <0.71, 2675 in [0.71,1.41], 3 >1.41
+refining 3 edges
+2062 tets, quality [0.33,0.99], 2062 >0.30
+2900 edges, length [0.35,1.41], 215 <0.71, 2685 in [0.71,1.41]
+coarsening 4 vertices
+2046 tets, quality [0.33,0.99], 2046 >0.30
+2880 edges, length [0.37,1.41], 203 <0.71, 2677 in [0.71,1.41]
+laplacian solve took 28 iterations
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 9
+0.40-0.50: 39
+0.50-0.60: 137
+0.60-0.70: 300
+0.70-0.80: 579
+0.80-0.90: 725
+0.90-1.00: 257
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 4
+0.40-0.60: 46
+0.60-0.80: 497
+0.80-1.00: 897
+1.00-1.20: 846
+1.20-1.40: 545
+1.40-1.60: 45
+1.60-1.80: 0
+1.80-2.00: 0
+addressing edge lengths took 0.0728352 seconds
+snapping while addressing element qualities took 0.0176179 seconds
+adapting took 0.0912892 seconds
+
+before adapting:
+2046 tets, quality [0.23,0.99], 8 in [0.20,0.30], 2038 >0.30
+2880 edges, length [0.38,2.17], 93 <0.71, 2409 in [0.71,1.41], 378 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 8
+0.30-0.40: 29
+0.40-0.50: 69
+0.50-0.60: 165
+0.60-0.70: 325
+0.70-0.80: 572
+0.80-0.90: 658
+0.90-1.00: 220
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 2
+0.40-0.60: 26
+0.60-0.80: 259
+0.80-1.00: 780
+1.00-1.20: 810
+1.20-1.40: 590
+1.40-1.60: 327
+1.60-1.80: 71
+1.80-2.00: 9
+addressing edge lengths
+refining 192 edges
+2777 tets, quality [0.21,0.99], 12 in [0.20,0.30], 2765 >0.30
+3871 edges, length [0.30,1.98], 406 <0.71, 3275 in [0.71,1.41], 190 >1.41
+coarsening 82 vertices
+2493 tets, quality [0.20,0.99], 9 in [0.20,0.30], 2484 >0.30
+3483 edges, length [0.33,1.98], 230 <0.71, 3065 in [0.71,1.41], 188 >1.41
+refining 120 edges
+3017 tets, quality [0.20,0.99], 13 in [0.20,0.30], 3004 >0.30
+4158 edges, length [0.28,1.78], 494 <0.71, 3593 in [0.71,1.41], 71 >1.41
+coarsening 82 vertices
+2716 tets, quality [0.20,0.99], 7 in [0.20,0.30], 2709 >0.30
+3761 edges, length [0.33,1.78], 298 <0.71, 3393 in [0.71,1.41], 70 >1.41
+refining 52 edges
+2948 tets, quality [0.20,0.99], 7 in [0.20,0.30], 2941 >0.30
+4053 edges, length [0.33,1.76], 455 <0.71, 3580 in [0.71,1.41], 18 >1.41
+coarsening 43 vertices
+2779 tets, quality [0.20,0.99], 11 in [0.20,0.30], 2768 >0.30
+3837 edges, length [0.36,1.76], 321 <0.71, 3498 in [0.71,1.41], 18 >1.41
+refining 15 edges
+2846 tets, quality [0.20,0.99], 11 in [0.20,0.30], 2835 >0.30
+3921 edges, length [0.35,1.61], 368 <0.71, 3550 in [0.71,1.41], 3 >1.41
+coarsening 19 vertices
+2769 tets, quality [0.20,0.99], 11 in [0.20,0.30], 2758 >0.30
+3823 edges, length [0.36,1.61], 307 <0.71, 3513 in [0.71,1.41], 3 >1.41
+refining 2 edges
+2778 tets, quality [0.20,0.99], 11 in [0.20,0.30], 2767 >0.30
+3834 edges, length [0.32,1.42], 314 <0.71, 3519 in [0.71,1.41], 1 >1.41
+coarsening 6 vertices
+2751 tets, quality [0.20,0.99], 9 in [0.20,0.30], 2742 >0.30
+3801 edges, length [0.36,1.42], 298 <0.71, 3502 in [0.71,1.41], 1 >1.41
+refining 1 edges
+2755 tets, quality [0.20,0.99], 9 in [0.20,0.30], 2746 >0.30
+3806 edges, length [0.36,1.41], 302 <0.71, 3504 in [0.71,1.41]
+coarsening 2 vertices
+2744 tets, quality [0.20,0.99], 9 in [0.20,0.30], 2735 >0.30
+3793 edges, length [0.36,1.41], 295 <0.71, 3498 in [0.71,1.41]
+coarsening 1 vertices
+2739 tets, quality [0.20,0.99], 9 in [0.20,0.30], 2730 >0.30
+3787 edges, length [0.36,1.41], 292 <0.71, 3495 in [0.71,1.41]
+coarsening 1 vertices
+2735 tets, quality [0.20,0.99], 10 in [0.20,0.30], 2725 >0.30
+3782 edges, length [0.36,1.41], 289 <0.71, 3493 in [0.71,1.41]
+coarsening 1 vertices
+2730 tets, quality [0.20,0.99], 11 in [0.20,0.30], 2719 >0.30
+3776 edges, length [0.36,1.41], 288 <0.71, 3488 in [0.71,1.41]
+laplacian solve took 29 iterations
+addressing element qualities
+swapping 74 3D edges
+2728 tets, quality [0.28,0.99], 1 in [0.20,0.30], 2727 >0.30
+3774 edges, length [0.36,1.74], 291 <0.71, 3474 in [0.71,1.41], 9 >1.41
+swapping 4 3D edges
+2729 tets, quality [0.28,0.99], 1 in [0.20,0.30], 2728 >0.30
+3775 edges, length [0.36,1.74], 291 <0.71, 3475 in [0.71,1.41], 9 >1.41
+swapping 3 3D edges
+2729 tets, quality [0.28,0.99], 1 in [0.20,0.30], 2728 >0.30
+3775 edges, length [0.36,1.74], 291 <0.71, 3472 in [0.71,1.41], 12 >1.41
+swapping 2 3D edges
+2729 tets, quality [0.28,0.99], 1 in [0.20,0.30], 2728 >0.30
+3775 edges, length [0.36,1.74], 291 <0.71, 3471 in [0.71,1.41], 13 >1.41
+swapping 2 3D edges
+2729 tets, quality [0.28,0.99], 1 in [0.20,0.30], 2728 >0.30
+3775 edges, length [0.36,1.74], 291 <0.71, 3472 in [0.71,1.41], 12 >1.41
+coarsening 4 vertices
+2709 tets, quality [0.30,0.99], 2709 >0.30
+3750 edges, length [0.36,1.74], 282 <0.71, 3451 in [0.71,1.41], 17 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 15
+0.40-0.50: 56
+0.50-0.60: 160
+0.60-0.70: 410
+0.70-0.80: 812
+0.80-0.90: 891
+0.90-1.00: 365
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 2
+0.40-0.60: 77
+0.60-0.80: 649
+0.80-1.00: 1135
+1.00-1.20: 1069
+1.20-1.40: 762
+1.40-1.60: 48
+1.60-1.80: 8
+1.80-2.00: 0
+addressing edge lengths took 0.136394 seconds
+snapping while addressing element qualities took 0.0755404 seconds
+adapting took 0.213003 seconds
+
+before adapting:
+2709 tets, quality [0.22,0.99], 10 in [0.20,0.30], 2699 >0.30
+3750 edges, length [0.37,2.11], 141 <0.71, 3143 in [0.71,1.41], 466 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 10
+0.30-0.40: 51
+0.40-0.50: 99
+0.50-0.60: 192
+0.60-0.70: 449
+0.70-0.80: 751
+0.80-0.90: 818
+0.90-1.00: 339
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 2
+0.40-0.60: 45
+0.60-0.80: 377
+0.80-1.00: 966
+1.00-1.20: 1058
+1.20-1.40: 788
+1.40-1.60: 408
+1.60-1.80: 73
+1.80-2.00: 30
+addressing edge lengths
+refining 236 edges
+3625 tets, quality [0.22,0.99], 14 in [0.20,0.30], 3611 >0.30
+4979 edges, length [0.27,2.11], 511 <0.71, 4233 in [0.71,1.41], 235 >1.41
+coarsening 92 vertices
+3297 tets, quality [0.22,0.99], 14 in [0.20,0.30], 3283 >0.30
+4536 edges, length [0.32,2.11], 306 <0.71, 3997 in [0.71,1.41], 233 >1.41
+refining 150 edges
+3932 tets, quality [0.20,1.00], 20 in [0.20,0.30], 3912 >0.30
+5352 edges, length [0.22,1.97], 644 <0.71, 4624 in [0.71,1.41], 84 >1.41
+coarsening 115 vertices
+3508 tets, quality [0.20,0.99], 21 in [0.20,0.30], 3487 >0.30
+4794 edges, length [0.30,1.97], 369 <0.71, 4341 in [0.71,1.41], 84 >1.41
+refining 65 edges
+3788 tets, quality [0.22,0.99], 23 in [0.20,0.30], 3765 >0.30
+5149 edges, length [0.22,1.88], 543 <0.71, 4587 in [0.71,1.41], 19 >1.41
+coarsening 61 vertices
+3556 tets, quality [0.22,0.99], 17 in [0.20,0.30], 3539 >0.30
+4847 edges, length [0.30,1.88], 377 <0.71, 4452 in [0.71,1.41], 18 >1.41
+refining 14 edges
+3617 tets, quality [0.22,0.99], 13 in [0.20,0.30], 3604 >0.30
+4924 edges, length [0.24,1.84], 423 <0.71, 4497 in [0.71,1.41], 4 >1.41
+coarsening 15 vertices
+3555 tets, quality [0.22,0.99], 15 in [0.20,0.30], 3540 >0.30
+4845 edges, length [0.30,1.84], 381 <0.71, 4460 in [0.71,1.41], 4 >1.41
+refining 1 edges
+3559 tets, quality [0.22,0.99], 14 in [0.20,0.30], 3545 >0.30
+4850 edges, length [0.30,1.84], 385 <0.71, 4462 in [0.71,1.41], 3 >1.41
+coarsening 6 vertices
+3532 tets, quality [0.22,0.99], 14 in [0.20,0.30], 3518 >0.30
+4816 edges, length [0.30,1.84], 372 <0.71, 4441 in [0.71,1.41], 3 >1.41
+refining 1 edges
+3537 tets, quality [0.22,0.99], 14 in [0.20,0.30], 3523 >0.30
+4822 edges, length [0.19,1.84], 377 <0.71, 4443 in [0.71,1.41], 2 >1.41
+coarsening 1 vertices
+3533 tets, quality [0.22,0.99], 14 in [0.20,0.30], 3519 >0.30
+4817 edges, length [0.30,1.84], 372 <0.71, 4443 in [0.71,1.41], 2 >1.41
+coarsening 1 vertices
+3528 tets, quality [0.22,0.99], 14 in [0.20,0.30], 3514 >0.30
+4811 edges, length [0.30,1.84], 368 <0.71, 4441 in [0.71,1.41], 2 >1.41
+coarsening 1 vertices
+3524 tets, quality [0.22,0.99], 14 in [0.20,0.30], 3510 >0.30
+4806 edges, length [0.30,1.84], 365 <0.71, 4439 in [0.71,1.41], 2 >1.41
+laplacian solve took 31 iterations
+addressing element qualities
+swapping 84 3D edges
+3531 tets, quality [0.22,0.99], 2 in [0.20,0.30], 3529 >0.30
+4813 edges, length [0.30,1.84], 366 <0.71, 4426 in [0.71,1.41], 21 >1.41
+swapping 2 3D edges
+3530 tets, quality [0.22,0.99], 1 in [0.20,0.30], 3529 >0.30
+4812 edges, length [0.30,1.84], 366 <0.71, 4425 in [0.71,1.41], 21 >1.41
+coarsening 3 vertices
+3523 tets, quality [0.22,0.99], 1 in [0.20,0.30], 3522 >0.30
+4799 edges, length [0.30,1.84], 364 <0.71, 4407 in [0.71,1.41], 28 >1.41
+swapping 2 3D edges
+3522 tets, quality [0.22,0.99], 1 in [0.20,0.30], 3521 >0.30
+4798 edges, length [0.30,1.84], 364 <0.71, 4407 in [0.71,1.41], 27 >1.41
+swapping 2 3D edges
+3522 tets, quality [0.22,0.99], 1 in [0.20,0.30], 3521 >0.30
+4798 edges, length [0.30,1.84], 365 <0.71, 4406 in [0.71,1.41], 27 >1.41
+swapping 1 3D edges
+3522 tets, quality [0.24,0.99], 1 in [0.20,0.30], 3521 >0.30
+4798 edges, length [0.30,1.84], 365 <0.71, 4406 in [0.71,1.41], 27 >1.41
+swapping 1 3D edges
+3521 tets, quality [0.24,0.99], 1 in [0.20,0.30], 3520 >0.30
+4797 edges, length [0.30,1.84], 365 <0.71, 4405 in [0.71,1.41], 27 >1.41
+coarsening 3 vertices
+3510 tets, quality [0.31,0.99], 3510 >0.30
+4781 edges, length [0.30,1.94], 362 <0.71, 4390 in [0.71,1.41], 29 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 21
+0.40-0.50: 65
+0.50-0.60: 197
+0.60-0.70: 587
+0.70-0.80: 1081
+0.80-0.90: 1122
+0.90-1.00: 437
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 6
+0.40-0.60: 98
+0.60-0.80: 884
+0.80-1.00: 1343
+1.00-1.20: 1404
+1.20-1.40: 963
+1.40-1.60: 77
+1.60-1.80: 4
+1.80-2.00: 2
+addressing edge lengths took 0.142246 seconds
+snapping while addressing element qualities took 0.0809736 seconds
+adapting took 0.224464 seconds
+
+before adapting:
+3510 tets, quality [0.23,0.99], 7 in [0.20,0.30], 3503 >0.30
+4781 edges, length [0.33,2.48], 190 <0.71, 4025 in [0.71,1.41], 566 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 7
+0.30-0.40: 49
+0.40-0.50: 125
+0.50-0.60: 277
+0.60-0.70: 603
+0.70-0.80: 1039
+0.80-0.90: 1006
+0.90-1.00: 404
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 3
+0.40-0.60: 52
+0.60-0.80: 530
+0.80-1.00: 1228
+1.00-1.20: 1286
+1.20-1.40: 1051
+1.40-1.60: 520
+1.60-1.80: 95
+1.80-2.00: 12
+addressing edge lengths
+refining 301 edges
+4648 tets, quality [0.22,0.99], 11 in [0.20,0.30], 4637 >0.30
+6312 edges, length [0.22,2.48], 670 <0.71, 5371 in [0.71,1.41], 271 >1.41
+coarsening 120 vertices
+4212 tets, quality [0.22,0.99], 11 in [0.20,0.30], 4201 >0.30
+5734 edges, length [0.33,2.48], 409 <0.71, 5054 in [0.71,1.41], 271 >1.41
+refining 178 edges
+4987 tets, quality [0.22,0.99], 11 in [0.20,0.30], 4976 >0.30
+6726 edges, length [0.16,1.85], 835 <0.71, 5796 in [0.71,1.41], 95 >1.41
+coarsening 127 vertices
+4511 tets, quality [0.22,1.00], 12 in [0.20,0.30], 4499 >0.30
+6105 edges, length [0.29,1.85], 516 <0.71, 5494 in [0.71,1.41], 95 >1.41
+refining 71 edges
+4825 tets, quality [0.22,1.00], 14 in [0.20,0.30], 4811 >0.30
+6503 edges, length [0.29,1.74], 717 <0.71, 5762 in [0.71,1.41], 24 >1.41
+coarsening 66 vertices
+4578 tets, quality [0.21,1.00], 14 in [0.20,0.30], 4564 >0.30
+6180 edges, length [0.29,1.74], 536 <0.71, 5621 in [0.71,1.41], 23 >1.41
+refining 20 edges
+4658 tets, quality [0.22,1.00], 13 in [0.20,0.30], 4645 >0.30
+6285 edges, length [0.27,1.65], 597 <0.71, 5685 in [0.71,1.41], 3 >1.41
+coarsening 24 vertices
+4567 tets, quality [0.22,1.00], 10 in [0.20,0.30], 4557 >0.30
+6164 edges, length [0.29,1.65], 521 <0.71, 5640 in [0.71,1.41], 3 >1.41
+refining 3 edges
+4579 tets, quality [0.22,1.00], 10 in [0.20,0.30], 4569 >0.30
+6180 edges, length [0.29,1.41], 528 <0.71, 5652 in [0.71,1.41]
+coarsening 9 vertices
+4546 tets, quality [0.22,1.00], 8 in [0.20,0.30], 4538 >0.30
+6134 edges, length [0.29,1.41], 508 <0.71, 5626 in [0.71,1.41]
+coarsening 1 vertices
+4542 tets, quality [0.22,1.00], 8 in [0.20,0.30], 4534 >0.30
+6129 edges, length [0.29,1.41], 505 <0.71, 5624 in [0.71,1.41]
+laplacian solve took 34 iterations
+addressing element qualities
+swapping 70 3D edges
+4538 tets, quality [0.29,0.99], 1 in [0.20,0.30], 4537 >0.30
+6125 edges, length [0.29,1.58], 508 <0.71, 5611 in [0.71,1.41], 6 >1.41
+swapping 1 3D edges
+4537 tets, quality [0.30,0.99], 4537 >0.30
+6124 edges, length [0.29,1.58], 508 <0.71, 5610 in [0.71,1.41], 6 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 28
+0.40-0.50: 91
+0.50-0.60: 267
+0.60-0.70: 781
+0.70-0.80: 1351
+0.80-0.90: 1434
+0.90-1.00: 585
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 9
+0.40-0.60: 108
+0.60-0.80: 1204
+0.80-1.00: 1704
+1.00-1.20: 1722
+1.20-1.40: 1297
+1.40-1.60: 80
+1.60-1.80: 0
+1.80-2.00: 0
+addressing edge lengths took 0.116332 seconds
+snapping while addressing element qualities took 0.0444432 seconds
+adapting took 0.162199 seconds
+
+before adapting:
+4537 tets, quality [0.21,0.99], 9 in [0.20,0.30], 4528 >0.30
+6124 edges, length [0.29,1.82], 247 <0.71, 5214 in [0.71,1.41], 663 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 9
+0.30-0.40: 59
+0.40-0.50: 144
+0.50-0.60: 362
+0.60-0.70: 797
+0.70-0.80: 1314
+0.80-0.90: 1358
+0.90-1.00: 494
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 6
+0.40-0.60: 69
+0.60-0.80: 749
+0.80-1.00: 1560
+1.00-1.20: 1630
+1.20-1.40: 1378
+1.40-1.60: 657
+1.60-1.80: 74
+1.80-2.00: 1
+addressing edge lengths
+refining 381 edges
+6048 tets, quality [0.21,1.00], 14 in [0.20,0.30], 6034 >0.30
+8128 edges, length [0.29,1.75], 930 <0.71, 6911 in [0.71,1.41], 287 >1.41
+coarsening 165 vertices
+5446 tets, quality [0.21,0.99], 15 in [0.20,0.30], 5431 >0.30
+7332 edges, length [0.29,1.75], 554 <0.71, 6492 in [0.71,1.41], 286 >1.41
+refining 206 edges
+6336 tets, quality [0.21,0.99], 22 in [0.20,0.30], 6314 >0.30
+8467 edges, length [0.21,1.73], 1048 <0.71, 7339 in [0.71,1.41], 80 >1.41
+coarsening 163 vertices
+5728 tets, quality [0.21,0.99], 15 in [0.20,0.30], 5713 >0.30
+7672 edges, length [0.22,1.73], 638 <0.71, 6954 in [0.71,1.41], 80 >1.41
+refining 64 edges
+6014 tets, quality [0.21,0.99], 16 in [0.20,0.30], 5998 >0.30
+8030 edges, length [0.22,1.73], 808 <0.71, 7206 in [0.71,1.41], 16 >1.41
+coarsening 63 vertices
+5768 tets, quality [0.21,0.99], 16 in [0.20,0.30], 5752 >0.30
+7714 edges, length [0.22,1.73], 638 <0.71, 7060 in [0.71,1.41], 16 >1.41
+refining 13 edges
+5818 tets, quality [0.21,0.99], 15 in [0.20,0.30], 5803 >0.30
+7780 edges, length [0.18,1.61], 678 <0.71, 7099 in [0.71,1.41], 3 >1.41
+coarsening 20 vertices
+5739 tets, quality [0.21,0.99], 14 in [0.20,0.30], 5725 >0.30
+7677 edges, length [0.22,1.61], 624 <0.71, 7050 in [0.71,1.41], 3 >1.41
+refining 2 edges
+5749 tets, quality [0.21,0.99], 14 in [0.20,0.30], 5735 >0.30
+7689 edges, length [0.22,1.61], 630 <0.71, 7058 in [0.71,1.41], 1 >1.41
+coarsening 4 vertices
+5728 tets, quality [0.21,0.99], 13 in [0.20,0.30], 5715 >0.30
+7664 edges, length [0.22,1.61], 616 <0.71, 7047 in [0.71,1.41], 1 >1.41
+refining 1 edges
+5733 tets, quality [0.21,0.99], 13 in [0.20,0.30], 5720 >0.30
+7670 edges, length [0.22,1.41], 620 <0.71, 7050 in [0.71,1.41]
+coarsening 3 vertices
+5720 tets, quality [0.21,0.99], 13 in [0.20,0.30], 5707 >0.30
+7654 edges, length [0.22,1.41], 611 <0.71, 7043 in [0.71,1.41]
+laplacian solve took 36 iterations
+addressing element qualities
+swapping 87 3D edges
+5723 tets, quality [0.28,0.99], 2 in [0.20,0.30], 5721 >0.30
+7657 edges, length [0.22,1.74], 613 <0.71, 7027 in [0.71,1.41], 17 >1.41
+swapping 7 3D edges
+5721 tets, quality [0.28,0.99], 1 in [0.20,0.30], 5720 >0.30
+7655 edges, length [0.22,1.74], 613 <0.71, 7024 in [0.71,1.41], 18 >1.41
+swapping 4 3D edges
+5720 tets, quality [0.28,0.99], 1 in [0.20,0.30], 5719 >0.30
+7654 edges, length [0.22,1.74], 613 <0.71, 7023 in [0.71,1.41], 18 >1.41
+swapping 2 3D edges
+5721 tets, quality [0.28,0.99], 1 in [0.20,0.30], 5720 >0.30
+7655 edges, length [0.22,1.74], 613 <0.71, 7024 in [0.71,1.41], 18 >1.41
+swapping 3 3D edges
+5720 tets, quality [0.28,0.99], 1 in [0.20,0.30], 5719 >0.30
+7654 edges, length [0.22,1.74], 613 <0.71, 7023 in [0.71,1.41], 18 >1.41
+swapping 1 3D edges
+5720 tets, quality [0.28,0.99], 1 in [0.20,0.30], 5719 >0.30
+7654 edges, length [0.22,1.74], 613 <0.71, 7022 in [0.71,1.41], 19 >1.41
+coarsening 6 vertices
+5692 tets, quality [0.28,0.99], 1 in [0.20,0.30], 5691 >0.30
+7617 edges, length [0.22,1.74], 607 <0.71, 6982 in [0.71,1.41], 28 >1.41
+swapping 2 3D edges
+5692 tets, quality [0.28,0.99], 1 in [0.20,0.30], 5691 >0.30
+7617 edges, length [0.22,1.74], 607 <0.71, 6980 in [0.71,1.41], 30 >1.41
+swapping 1 3D edges
+5691 tets, quality [0.28,0.99], 1 in [0.20,0.30], 5690 >0.30
+7616 edges, length [0.22,1.74], 607 <0.71, 6979 in [0.71,1.41], 30 >1.41
+swapping 2 3D edges
+5691 tets, quality [0.30,0.99], 5691 >0.30
+7616 edges, length [0.22,1.74], 607 <0.71, 6978 in [0.71,1.41], 31 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 44
+0.40-0.50: 126
+0.50-0.60: 360
+0.60-0.70: 967
+0.70-0.80: 1714
+0.80-0.90: 1804
+0.90-1.00: 676
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 11
+0.40-0.60: 138
+0.60-0.80: 1509
+0.80-1.00: 2127
+1.00-1.20: 2046
+1.20-1.40: 1676
+1.40-1.60: 106
+1.60-1.80: 3
+1.80-2.00: 0
+addressing edge lengths took 0.152135 seconds
+snapping while addressing element qualities took 0.133949 seconds
+adapting took 0.287774 seconds
+
+before adapting:
+5691 tets, quality [0.23,0.99], 12 in [0.20,0.30], 5679 >0.30
+7616 edges, length [0.24,2.03], 330 <0.71, 6508 in [0.71,1.41], 778 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 12
+0.30-0.40: 79
+0.40-0.50: 170
+0.50-0.60: 481
+0.60-0.70: 1030
+0.70-0.80: 1637
+0.80-0.90: 1684
+0.90-1.00: 598
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 9
+0.40-0.60: 85
+0.60-0.80: 1000
+0.80-1.00: 1930
+1.00-1.20: 2030
+1.20-1.40: 1666
+1.40-1.60: 798
+1.60-1.80: 87
+1.80-2.00: 10
+addressing edge lengths
+refining 469 edges
+7484 tets, quality [0.20,0.99], 24 in [0.20,0.30], 7460 >0.30
+10019 edges, length [0.23,2.03], 1162 <0.71, 8541 in [0.71,1.41], 316 >1.41
+coarsening 226 vertices
+6652 tets, quality [0.20,0.99], 18 in [0.20,0.30], 6634 >0.30
+8924 edges, length [0.24,2.03], 650 <0.71, 7960 in [0.71,1.41], 314 >1.41
+refining 225 edges
+7629 tets, quality [0.20,0.99], 19 in [0.20,0.30], 7610 >0.30
+10172 edges, length [0.19,1.81], 1197 <0.71, 8884 in [0.71,1.41], 91 >1.41
+coarsening 183 vertices
+6964 tets, quality [0.20,0.99], 18 in [0.20,0.30], 6946 >0.30
+9289 edges, length [0.19,1.81], 746 <0.71, 8453 in [0.71,1.41], 90 >1.41
+refining 71 edges
+7264 tets, quality [0.20,0.99], 20 in [0.20,0.30], 7244 >0.30
+9673 edges, length [0.19,1.65], 938 <0.71, 8715 in [0.71,1.41], 20 >1.41
+coarsening 72 vertices
+6996 tets, quality [0.20,0.99], 20 in [0.20,0.30], 6976 >0.30
+9318 edges, length [0.19,1.65], 746 <0.71, 8553 in [0.71,1.41], 19 >1.41
+refining 13 edges
+7054 tets, quality [0.20,0.99], 19 in [0.20,0.30], 7035 >0.30
+9389 edges, length [0.19,1.65], 776 <0.71, 8607 in [0.71,1.41], 6 >1.41
+coarsening 20 vertices
+6973 tets, quality [0.20,0.99], 20 in [0.20,0.30], 6953 >0.30
+9284 edges, length [0.20,1.65], 735 <0.71, 8543 in [0.71,1.41], 6 >1.41
+refining 1 edges
+6977 tets, quality [0.20,0.99], 19 in [0.20,0.30], 6958 >0.30
+9289 edges, length [0.10,1.65], 738 <0.71, 8546 in [0.71,1.41], 5 >1.41
+coarsening 1 vertices
+6973 tets, quality [0.20,0.99], 18 in [0.20,0.30], 6955 >0.30
+9284 edges, length [0.20,1.65], 734 <0.71, 8545 in [0.71,1.41], 5 >1.41
+coarsening 1 vertices
+6969 tets, quality [0.20,0.99], 18 in [0.20,0.30], 6951 >0.30
+9279 edges, length [0.20,1.65], 733 <0.71, 8541 in [0.71,1.41], 5 >1.41
+coarsening 1 vertices
+6964 tets, quality [0.20,0.99], 19 in [0.20,0.30], 6945 >0.30
+9273 edges, length [0.20,1.65], 731 <0.71, 8537 in [0.71,1.41], 5 >1.41
+coarsening 1 vertices
+6959 tets, quality [0.20,0.99], 18 in [0.20,0.30], 6941 >0.30
+9267 edges, length [0.20,1.65], 729 <0.71, 8533 in [0.71,1.41], 5 >1.41
+laplacian solve took 39 iterations
+addressing element qualities
+swapping 103 3D edges
+6956 tets, quality [0.20,0.99], 5 in [0.20,0.30], 6951 >0.30
+9264 edges, length [0.20,1.77], 731 <0.71, 8510 in [0.71,1.41], 23 >1.41
+swapping 14 3D edges
+6953 tets, quality [0.21,0.99], 4 in [0.20,0.30], 6949 >0.30
+9261 edges, length [0.20,1.77], 731 <0.71, 8503 in [0.71,1.41], 27 >1.41
+swapping 9 3D edges
+6949 tets, quality [0.21,0.99], 3 in [0.20,0.30], 6946 >0.30
+9257 edges, length [0.20,1.77], 731 <0.71, 8500 in [0.71,1.41], 26 >1.41
+swapping 3 3D edges
+6950 tets, quality [0.29,0.99], 1 in [0.20,0.30], 6949 >0.30
+9258 edges, length [0.20,1.77], 731 <0.71, 8503 in [0.71,1.41], 24 >1.41
+swapping 4 3D edges
+6951 tets, quality [0.31,0.99], 6951 >0.30
+9259 edges, length [0.20,1.77], 731 <0.71, 8503 in [0.71,1.41], 25 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 55
+0.40-0.50: 127
+0.50-0.60: 439
+0.60-0.70: 1243
+0.70-0.80: 2060
+0.80-0.90: 2223
+0.90-1.00: 804
+length histogram:
+0.00-0.20: 1
+0.20-0.40: 11
+0.40-0.60: 170
+0.60-0.80: 1796
+0.80-1.00: 2588
+1.00-1.20: 2556
+1.20-1.40: 1984
+1.40-1.60: 151
+1.60-1.80: 2
+1.80-2.00: 0
+addressing edge lengths took 0.200817 seconds
+snapping while addressing element qualities took 0.101742 seconds
+adapting took 0.304522 seconds
+
+before adapting:
+6951 tets, quality [0.26,0.99], 5 in [0.20,0.30], 6946 >0.30
+9259 edges, length [0.21,1.94], 405 <0.71, 7984 in [0.71,1.41], 870 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 5
+0.30-0.40: 78
+0.40-0.50: 194
+0.50-0.60: 602
+0.60-0.70: 1296
+0.70-0.80: 1991
+0.80-0.90: 2053
+0.90-1.00: 732
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 7
+0.40-0.60: 112
+0.60-0.80: 1205
+0.80-1.00: 2479
+1.00-1.20: 2394
+1.20-1.40: 2046
+1.40-1.60: 927
+1.60-1.80: 86
+1.80-2.00: 3
+addressing edge lengths
+refining 520 edges
+9004 tets, quality [0.21,0.99], 10 in [0.20,0.30], 8994 >0.30
+11979 edges, length [0.17,1.80], 1361 <0.71, 10267 in [0.71,1.41], 351 >1.41
+coarsening 249 vertices
+8097 tets, quality [0.20,0.99], 21 in [0.20,0.30], 8076 >0.30
+10778 edges, length [0.24,1.80], 792 <0.71, 9638 in [0.71,1.41], 348 >1.41
+refining 254 edges
+9211 tets, quality [0.20,0.99], 29 in [0.20,0.30], 9182 >0.30
+12179 edges, length [0.18,1.73], 1407 <0.71, 10678 in [0.71,1.41], 94 >1.41
+coarsening 210 vertices
+8418 tets, quality [0.20,0.99], 21 in [0.20,0.30], 8397 >0.30
+11150 edges, length [0.24,1.73], 895 <0.71, 10161 in [0.71,1.41], 94 >1.41
+refining 82 edges
+8787 tets, quality [0.20,0.99], 24 in [0.20,0.30], 8763 >0.30
+11606 edges, length [0.19,1.57], 1110 <0.71, 10484 in [0.71,1.41], 12 >1.41
+coarsening 85 vertices
+8445 tets, quality [0.20,0.99], 22 in [0.20,0.30], 8423 >0.30
+11174 edges, length [0.24,1.57], 890 <0.71, 10272 in [0.71,1.41], 12 >1.41
+refining 12 edges
+8493 tets, quality [0.20,0.99], 23 in [0.20,0.30], 8470 >0.30
+11237 edges, length [0.24,1.41], 923 <0.71, 10314 in [0.71,1.41]
+coarsening 21 vertices
+8406 tets, quality [0.20,0.99], 22 in [0.20,0.30], 8384 >0.30
+11126 edges, length [0.24,1.41], 870 <0.71, 10256 in [0.71,1.41]
+coarsening 3 vertices
+8391 tets, quality [0.20,0.99], 23 in [0.20,0.30], 8368 >0.30
+11108 edges, length [0.24,1.41], 863 <0.71, 10245 in [0.71,1.41]
+laplacian solve took 41 iterations
+addressing element qualities
+swapping 155 3D edges
+8388 tets, quality [0.25,0.99], 1 in [0.20,0.30], 8387 >0.30
+11105 edges, length [0.24,1.68], 866 <0.71, 10215 in [0.71,1.41], 24 >1.41
+swapping 3 3D edges
+8387 tets, quality [0.30,0.99], 8387 >0.30
+11104 edges, length [0.24,1.68], 866 <0.71, 10214 in [0.71,1.41], 24 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 52
+0.40-0.50: 132
+0.50-0.60: 575
+0.60-0.70: 1440
+0.70-0.80: 2481
+0.80-0.90: 2673
+0.90-1.00: 1034
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 11
+0.40-0.60: 205
+0.60-0.80: 2142
+0.80-1.00: 3196
+1.00-1.20: 2975
+1.20-1.40: 2377
+1.40-1.60: 195
+1.60-1.80: 3
+1.80-2.00: 0
+addressing edge lengths took 0.174692 seconds
+snapping while addressing element qualities took 0.0846566 seconds
+adapting took 0.261598 seconds
+
+before adapting:
+8387 tets, quality [0.24,0.99], 15 in [0.20,0.30], 8372 >0.30
+11104 edges, length [0.25,1.86], 492 <0.71, 9635 in [0.71,1.41], 977 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 15
+0.30-0.40: 65
+0.40-0.50: 225
+0.50-0.60: 714
+0.60-0.70: 1504
+0.70-0.80: 2451
+0.80-0.90: 2476
+0.90-1.00: 937
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 7
+0.40-0.60: 153
+0.60-0.80: 1465
+0.80-1.00: 3010
+1.00-1.20: 2886
+1.20-1.40: 2467
+1.40-1.60: 1028
+1.60-1.80: 85
+1.80-2.00: 3
+addressing edge lengths
+refining 603 edges
+10766 tets, quality [0.23,0.99], 17 in [0.20,0.30], 10749 >0.30
+14241 edges, length [0.19,1.84], 1645 <0.71, 12221 in [0.71,1.41], 375 >1.41
+coarsening 319 vertices
+9620 tets, quality [0.21,0.99], 21 in [0.20,0.30], 9599 >0.30
+12711 edges, length [0.25,1.84], 879 <0.71, 11459 in [0.71,1.41], 373 >1.41
+refining 282 edges
+10873 tets, quality [0.20,0.99], 23 in [0.20,0.30], 10850 >0.30
+14293 edges, length [0.21,1.84], 1553 <0.71, 12649 in [0.71,1.41], 91 >1.41
+coarsening 243 vertices
+9969 tets, quality [0.21,0.99], 19 in [0.20,0.30], 9950 >0.30
+13107 edges, length [0.25,1.84], 948 <0.71, 12068 in [0.71,1.41], 91 >1.41
+refining 85 edges
+10342 tets, quality [0.21,0.99], 21 in [0.20,0.30], 10321 >0.30
+13572 edges, length [0.25,1.84], 1166 <0.71, 12400 in [0.71,1.41], 6 >1.41
+coarsening 89 vertices
+9998 tets, quality [0.21,0.99], 23 in [0.20,0.30], 9975 >0.30
+13130 edges, length [0.25,1.84], 939 <0.71, 12185 in [0.71,1.41], 6 >1.41
+refining 6 edges
+10026 tets, quality [0.21,0.99], 23 in [0.20,0.30], 10003 >0.30
+13164 edges, length [0.25,1.41], 955 <0.71, 12209 in [0.71,1.41]
+coarsening 13 vertices
+9969 tets, quality [0.21,0.99], 24 in [0.20,0.30], 9945 >0.30
+13093 edges, length [0.25,1.41], 924 <0.71, 12169 in [0.71,1.41]
+coarsening 1 vertices
+9964 tets, quality [0.21,0.99], 25 in [0.20,0.30], 9939 >0.30
+13087 edges, length [0.25,1.41], 922 <0.71, 12165 in [0.71,1.41]
+laplacian solve took 50 iterations
+addressing element qualities
+swapping 176 3D edges
+9986 tets, quality [0.29,0.99], 1 in [0.20,0.30], 9985 >0.30
+13109 edges, length [0.25,1.92], 927 <0.71, 12149 in [0.71,1.41], 33 >1.41
+swapping 3 3D edges
+9986 tets, quality [0.30,0.99], 9986 >0.30
+13109 edges, length [0.25,1.92], 927 <0.71, 12149 in [0.71,1.41], 33 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 40
+0.40-0.50: 171
+0.50-0.60: 636
+0.60-0.70: 1713
+0.70-0.80: 2908
+0.80-0.90: 3222
+0.90-1.00: 1296
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 10
+0.40-0.60: 250
+0.60-0.80: 2459
+0.80-1.00: 3763
+1.00-1.20: 3580
+1.20-1.40: 2858
+1.40-1.60: 185
+1.60-1.80: 3
+1.80-2.00: 1
+addressing edge lengths took 0.202281 seconds
+snapping while addressing element qualities took 0.10089 seconds
+adapting took 0.305752 seconds
+
+before adapting:
+9986 tets, quality [0.21,1.00], 6 in [0.20,0.30], 9980 >0.30
+13109 edges, length [0.26,2.21], 567 <0.71, 11545 in [0.71,1.41], 997 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 6
+0.30-0.40: 62
+0.40-0.50: 250
+0.50-0.60: 797
+0.60-0.70: 1805
+0.70-0.80: 2826
+0.80-0.90: 3057
+0.90-1.00: 1183
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 6
+0.40-0.60: 197
+0.60-0.80: 1752
+0.80-1.00: 3609
+1.00-1.20: 3392
+1.20-1.40: 2985
+1.40-1.60: 1106
+1.60-1.80: 61
+1.80-2.00: 0
+addressing edge lengths
+refining 636 edges
+12533 tets, quality [0.21,1.00], 13 in [0.20,0.30], 12520 >0.30
+16442 edges, length [0.25,1.72], 1774 <0.71, 14307 in [0.71,1.41], 361 >1.41
+coarsening 331 vertices
+11297 tets, quality [0.20,1.00], 17 in [0.20,0.30], 11280 >0.30
+14826 edges, length [0.26,1.72], 988 <0.71, 13482 in [0.71,1.41], 356 >1.41
+refining 273 edges
+12502 tets, quality [0.20,1.00], 20 in [0.20,0.30], 12482 >0.30
+16344 edges, length [0.22,1.66], 1692 <0.71, 14569 in [0.71,1.41], 83 >1.41
+coarsening 229 vertices
+11632 tets, quality [0.20,1.00], 22 in [0.20,0.30], 11610 >0.30
+15218 edges, length [0.26,1.66], 1114 <0.71, 14021 in [0.71,1.41], 83 >1.41
+refining 75 edges
+11965 tets, quality [0.20,1.00], 27 in [0.20,0.30], 11938 >0.30
+15634 edges, length [0.18,1.56], 1319 <0.71, 14307 in [0.71,1.41], 8 >1.41
+coarsening 80 vertices
+11648 tets, quality [0.20,1.00], 24 in [0.20,0.30], 11624 >0.30
+15230 edges, length [0.26,1.56], 1118 <0.71, 14104 in [0.71,1.41], 8 >1.41
+refining 7 edges
+11682 tets, quality [0.20,1.00], 24 in [0.20,0.30], 11658 >0.30
+15271 edges, length [0.26,1.42], 1139 <0.71, 14131 in [0.71,1.41], 1 >1.41
+coarsening 14 vertices
+11621 tets, quality [0.20,1.00], 26 in [0.20,0.30], 11595 >0.30
+15195 edges, length [0.26,1.42], 1106 <0.71, 14088 in [0.71,1.41], 1 >1.41
+coarsening 3 vertices
+11605 tets, quality [0.20,1.00], 26 in [0.20,0.30], 11579 >0.30
+15176 edges, length [0.26,1.42], 1098 <0.71, 14077 in [0.71,1.41], 1 >1.41
+coarsening 1 vertices
+11600 tets, quality [0.20,1.00], 26 in [0.20,0.30], 11574 >0.30
+15170 edges, length [0.26,1.42], 1096 <0.71, 14073 in [0.71,1.41], 1 >1.41
+laplacian solve took 51 iterations
+addressing element qualities
+swapping 155 3D edges
+11608 tets, quality [0.23,1.00], 6 in [0.20,0.30], 11602 >0.30
+15178 edges, length [0.26,1.72], 1100 <0.71, 14042 in [0.71,1.41], 36 >1.41
+swapping 18 3D edges
+11602 tets, quality [0.29,1.00], 1 in [0.20,0.30], 11601 >0.30
+15172 edges, length [0.26,1.72], 1099 <0.71, 14036 in [0.71,1.41], 37 >1.41
+swapping 3 3D edges
+11601 tets, quality [0.30,1.00], 11601 >0.30
+15171 edges, length [0.26,1.72], 1099 <0.71, 14035 in [0.71,1.41], 37 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 68
+0.40-0.50: 207
+0.50-0.60: 754
+0.60-0.70: 1938
+0.70-0.80: 3378
+0.80-0.90: 3768
+0.90-1.00: 1488
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 18
+0.40-0.60: 278
+0.60-0.80: 2807
+0.80-1.00: 4383
+1.00-1.20: 4065
+1.20-1.40: 3389
+1.40-1.60: 227
+1.60-1.80: 4
+1.80-2.00: 0
+addressing edge lengths took 0.248833 seconds
+snapping while addressing element qualities took 0.130596 seconds
+adapting took 0.382245 seconds
+
+before adapting:
+11601 tets, quality [0.23,1.00], 16 in [0.20,0.30], 11585 >0.30
+15171 edges, length [0.28,2.09], 514 <0.71, 12427 in [0.71,1.41], 2230 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 16
+0.30-0.40: 137
+0.40-0.50: 432
+0.50-0.60: 1104
+0.60-0.70: 2170
+0.70-0.80: 3184
+0.80-0.90: 3338
+0.90-1.00: 1220
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 12
+0.40-0.60: 175
+0.60-0.80: 1447
+0.80-1.00: 3932
+1.00-1.20: 3760
+1.20-1.40: 3395
+1.40-1.60: 1997
+1.60-1.80: 372
+1.80-2.00: 75
+addressing edge lengths
+refining 1136 edges
+16071 tets, quality [0.20,1.00], 31 in [0.20,0.30], 16040 >0.30
+21078 edges, length [0.23,1.95], 2152 <0.71, 17819 in [0.71,1.41], 1107 >1.41
+coarsening 457 vertices
+14432 tets, quality [0.20,1.00], 29 in [0.20,0.30], 14403 >0.30
+18887 edges, length [0.23,1.95], 1186 <0.71, 16597 in [0.71,1.41], 1104 >1.41
+refining 724 edges
+17637 tets, quality [0.20,1.00], 48 in [0.20,0.30], 17589 >0.30
+22938 edges, length [0.19,1.89], 2764 <0.71, 19792 in [0.71,1.41], 382 >1.41
+coarsening 586 vertices
+15465 tets, quality [0.20,1.00], 32 in [0.20,0.30], 15433 >0.30
+20089 edges, length [0.20,1.89], 1423 <0.71, 18285 in [0.71,1.41], 381 >1.41
+refining 299 edges
+16837 tets, quality [0.20,1.00], 29 in [0.20,0.30], 16808 >0.30
+21784 edges, length [0.18,1.87], 2191 <0.71, 19511 in [0.71,1.41], 82 >1.41
+coarsening 278 vertices
+15742 tets, quality [0.20,1.00], 31 in [0.20,0.30], 15711 >0.30
+20387 edges, length [0.20,1.87], 1488 <0.71, 18817 in [0.71,1.41], 82 >1.41
+refining 74 edges
+16075 tets, quality [0.20,1.00], 27 in [0.20,0.30], 16048 >0.30
+20797 edges, length [0.20,1.76], 1701 <0.71, 19088 in [0.71,1.41], 8 >1.41
+coarsening 93 vertices
+15687 tets, quality [0.20,1.00], 29 in [0.20,0.30], 15658 >0.30
+20312 edges, length [0.23,1.76], 1459 <0.71, 18845 in [0.71,1.41], 8 >1.41
+refining 4 edges
+15707 tets, quality [0.20,1.00], 29 in [0.20,0.30], 15678 >0.30
+20336 edges, length [0.23,1.76], 1474 <0.71, 18858 in [0.71,1.41], 4 >1.41
+coarsening 18 vertices
+15617 tets, quality [0.20,1.00], 29 in [0.20,0.30], 15588 >0.30
+20227 edges, length [0.23,1.76], 1432 <0.71, 18791 in [0.71,1.41], 4 >1.41
+refining 1 edges
+15621 tets, quality [0.20,1.00], 29 in [0.20,0.30], 15592 >0.30
+20232 edges, length [0.23,1.76], 1435 <0.71, 18794 in [0.71,1.41], 3 >1.41
+coarsening 3 vertices
+15608 tets, quality [0.20,1.00], 29 in [0.20,0.30], 15579 >0.30
+20216 edges, length [0.23,1.76], 1425 <0.71, 18788 in [0.71,1.41], 3 >1.41
+laplacian solve took 55 iterations
+addressing element qualities
+swapping 182 3D edges
+15597 tets, quality [0.20,1.00], 3 in [0.20,0.30], 15594 >0.30
+20205 edges, length [0.23,1.76], 1430 <0.71, 18740 in [0.71,1.41], 35 >1.41
+swapping 8 3D edges
+15599 tets, quality [0.20,1.00], 3 in [0.20,0.30], 15596 >0.30
+20207 edges, length [0.23,1.76], 1430 <0.71, 18743 in [0.71,1.41], 34 >1.41
+swapping 5 3D edges
+15597 tets, quality [0.20,1.00], 2 in [0.20,0.30], 15595 >0.30
+20205 edges, length [0.23,1.76], 1430 <0.71, 18742 in [0.71,1.41], 33 >1.41
+swapping 1 3D edges
+15598 tets, quality [0.20,1.00], 2 in [0.20,0.30], 15596 >0.30
+20206 edges, length [0.23,1.76], 1430 <0.71, 18743 in [0.71,1.41], 33 >1.41
+swapping 2 3D edges
+15597 tets, quality [0.20,1.00], 2 in [0.20,0.30], 15595 >0.30
+20205 edges, length [0.23,1.76], 1430 <0.71, 18742 in [0.71,1.41], 33 >1.41
+swapping 1 3D edges
+15597 tets, quality [0.20,1.00], 2 in [0.20,0.30], 15595 >0.30
+20205 edges, length [0.23,1.76], 1430 <0.71, 18742 in [0.71,1.41], 33 >1.41
+coarsening 3 vertices
+15587 tets, quality [0.24,1.00], 2 in [0.20,0.30], 15585 >0.30
+20190 edges, length [0.23,2.15], 1425 <0.71, 18726 in [0.71,1.41], 39 >1.41
+swapping 3 3D edges
+15588 tets, quality [0.26,1.00], 2 in [0.20,0.30], 15586 >0.30
+20191 edges, length [0.23,2.15], 1425 <0.71, 18726 in [0.71,1.41], 40 >1.41
+coarsening 4 vertices
+15567 tets, quality [0.30,1.00], 15567 >0.30
+20164 edges, length [0.23,2.21], 1420 <0.71, 18696 in [0.71,1.41], 48 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 84
+0.40-0.50: 288
+0.50-0.60: 1004
+0.60-0.70: 2748
+0.70-0.80: 4466
+0.80-0.90: 4972
+0.90-1.00: 2005
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 27
+0.40-0.60: 402
+0.60-0.80: 3762
+0.80-1.00: 5854
+1.00-1.20: 5384
+1.20-1.40: 4424
+1.40-1.60: 294
+1.60-1.80: 12
+1.80-2.00: 2
+addressing edge lengths took 0.416872 seconds
+snapping while addressing element qualities took 0.312737 seconds
+adapting took 0.733046 seconds
+
+before adapting:
+15567 tets, quality [0.23,1.00], 15 in [0.20,0.30], 15552 >0.30
+20164 edges, length [0.25,2.61], 775 <0.71, 17058 in [0.71,1.41], 2331 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 15
+0.30-0.40: 151
+0.40-0.50: 487
+0.50-0.60: 1399
+0.60-0.70: 2935
+0.70-0.80: 4429
+0.80-0.90: 4401
+0.90-1.00: 1750
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 15
+0.40-0.60: 288
+0.60-0.80: 2305
+0.80-1.00: 5171
+1.00-1.20: 5248
+1.20-1.40: 4525
+1.40-1.60: 2283
+1.60-1.80: 279
+1.80-2.00: 42
+addressing edge lengths
+refining 1298 edges
+20929 tets, quality [0.24,1.00], 38 in [0.20,0.30], 20891 >0.30
+27088 edges, length [0.21,2.34], 2901 <0.71, 23141 in [0.71,1.41], 1046 >1.41
+coarsening 594 vertices
+18727 tets, quality [0.20,1.00], 43 in [0.20,0.30], 18684 >0.30
+24200 edges, length [0.24,2.34], 1605 <0.71, 21550 in [0.71,1.41], 1045 >1.41
+refining 698 edges
+21942 tets, quality [0.20,1.00], 57 in [0.20,0.30], 21885 >0.30
+28178 edges, length [0.20,2.34], 3223 <0.71, 24603 in [0.71,1.41], 352 >1.41
+coarsening 560 vertices
+19782 tets, quality [0.20,1.00], 52 in [0.20,0.30], 19730 >0.30
+25409 edges, length [0.24,2.34], 1883 <0.71, 23176 in [0.71,1.41], 350 >1.41
+refining 276 edges
+21041 tets, quality [0.20,1.00], 54 in [0.20,0.30], 20987 >0.30
+26966 edges, length [0.21,2.25], 2613 <0.71, 24279 in [0.71,1.41], 74 >1.41
+coarsening 274 vertices
+19940 tets, quality [0.20,1.00], 53 in [0.20,0.30], 19887 >0.30
+25576 edges, length [0.24,2.25], 1914 <0.71, 23589 in [0.71,1.41], 73 >1.41
+refining 57 edges
+20206 tets, quality [0.20,1.00], 49 in [0.20,0.30], 20157 >0.30
+25901 edges, length [0.24,1.86], 2079 <0.71, 23806 in [0.71,1.41], 16 >1.41
+coarsening 68 vertices
+19918 tets, quality [0.20,1.00], 47 in [0.20,0.30], 19871 >0.30
+25543 edges, length [0.25,1.86], 1894 <0.71, 23634 in [0.71,1.41], 15 >1.41
+refining 12 edges
+19964 tets, quality [0.20,1.00], 44 in [0.20,0.30], 19920 >0.30
+25603 edges, length [0.25,1.56], 1932 <0.71, 23668 in [0.71,1.41], 3 >1.41
+coarsening 20 vertices
+19882 tets, quality [0.20,1.00], 45 in [0.20,0.30], 19837 >0.30
+25498 edges, length [0.25,1.56], 1871 <0.71, 23624 in [0.71,1.41], 3 >1.41
+coarsening 5 vertices
+19857 tets, quality [0.20,1.00], 45 in [0.20,0.30], 19812 >0.30
+25468 edges, length [0.25,1.56], 1859 <0.71, 23606 in [0.71,1.41], 3 >1.41
+coarsening 1 vertices
+19851 tets, quality [0.20,1.00], 45 in [0.20,0.30], 19806 >0.30
+25461 edges, length [0.25,1.56], 1857 <0.71, 23601 in [0.71,1.41], 3 >1.41
+laplacian solve took 54 iterations
+addressing element qualities
+swapping 328 3D edges
+19857 tets, quality [0.21,1.00], 3 in [0.20,0.30], 19854 >0.30
+25467 edges, length [0.25,1.76], 1861 <0.71, 23560 in [0.71,1.41], 46 >1.41
+swapping 17 3D edges
+19856 tets, quality [0.30,1.00], 19856 >0.30
+25466 edges, length [0.25,1.76], 1861 <0.71, 23558 in [0.71,1.41], 47 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 101
+0.40-0.50: 367
+0.50-0.60: 1173
+0.60-0.70: 3361
+0.70-0.80: 5836
+0.80-0.90: 6434
+0.90-1.00: 2584
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 27
+0.40-0.60: 572
+0.60-0.80: 4818
+0.80-1.00: 7183
+1.00-1.20: 7019
+1.20-1.40: 5495
+1.40-1.60: 348
+1.60-1.80: 4
+1.80-2.00: 0
+addressing edge lengths took 0.529146 seconds
+snapping while addressing element qualities took 0.19266 seconds
+adapting took 0.726118 seconds
+
+before adapting:
+19856 tets, quality [0.21,1.00], 42 in [0.20,0.30], 19814 >0.30
+25466 edges, length [0.30,2.51], 886 <0.71, 20047 in [0.71,1.41], 4533 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 42
+0.30-0.40: 278
+0.40-0.50: 824
+0.50-0.60: 1967
+0.60-0.70: 3882
+0.70-0.80: 5458
+0.80-0.90: 5339
+0.90-1.00: 2066
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 15
+0.40-0.60: 308
+0.60-0.80: 2091
+0.80-1.00: 6096
+1.00-1.20: 6507
+1.20-1.40: 5575
+1.40-1.60: 3601
+1.60-1.80: 870
+1.80-2.00: 292
+addressing edge lengths
+refining 2063 edges
+28223 tets, quality [0.21,1.00], 70 in [0.20,0.30], 28153 >0.30
+36351 edges, length [0.25,2.40], 3604 <0.71, 30229 in [0.71,1.41], 2518 >1.41
+coarsening 792 vertices
+25275 tets, quality [0.20,1.00], 60 in [0.20,0.30], 25215 >0.30
+32497 edges, length [0.26,2.40], 1994 <0.71, 27991 in [0.71,1.41], 2512 >1.41
+refining 1442 edges
+31756 tets, quality [0.20,1.00], 99 in [0.20,0.30], 31657 >0.30
+40624 edges, length [0.20,2.40], 4966 <0.71, 34562 in [0.71,1.41], 1096 >1.41
+coarsening 1077 vertices
+27703 tets, quality [0.20,1.00], 90 in [0.20,0.30], 27613 >0.30
+35359 edges, length [0.25,2.40], 2601 <0.71, 31675 in [0.71,1.41], 1083 >1.41
+refining 747 edges
+31205 tets, quality [0.20,1.00], 113 in [0.20,0.30], 31092 >0.30
+39659 edges, length [0.14,2.40], 4415 <0.71, 34897 in [0.71,1.41], 347 >1.41
+coarsening 663 vertices
+28615 tets, quality [0.20,1.00], 94 in [0.20,0.30], 28521 >0.30
+36362 edges, length [0.26,2.40], 2799 <0.71, 33226 in [0.71,1.41], 337 >1.41
+refining 265 edges
+29804 tets, quality [0.20,1.00], 93 in [0.20,0.30], 29711 >0.30
+37826 edges, length [0.22,2.40], 3525 <0.71, 34228 in [0.71,1.41], 73 >1.41
+coarsening 303 vertices
+28556 tets, quality [0.20,1.00], 80 in [0.20,0.30], 28476 >0.30
+36258 edges, length [0.26,2.40], 2723 <0.71, 33464 in [0.71,1.41], 71 >1.41
+refining 44 edges
+28752 tets, quality [0.20,1.00], 80 in [0.20,0.30], 28672 >0.30
+36498 edges, length [0.18,2.40], 2850 <0.71, 33621 in [0.71,1.41], 27 >1.41
+coarsening 74 vertices
+28416 tets, quality [0.20,1.00], 79 in [0.20,0.30], 28337 >0.30
+36087 edges, length [0.28,2.40], 2662 <0.71, 33398 in [0.71,1.41], 27 >1.41
+refining 6 edges
+28444 tets, quality [0.20,1.00], 80 in [0.20,0.30], 28364 >0.30
+36121 edges, length [0.21,2.40], 2683 <0.71, 33417 in [0.71,1.41], 21 >1.41
+coarsening 14 vertices
+28379 tets, quality [0.20,1.00], 80 in [0.20,0.30], 28299 >0.30
+36040 edges, length [0.28,2.40], 2648 <0.71, 33371 in [0.71,1.41], 21 >1.41
+coarsening 4 vertices
+28360 tets, quality [0.20,1.00], 81 in [0.20,0.30], 28279 >0.30
+36017 edges, length [0.28,2.40], 2639 <0.71, 33357 in [0.71,1.41], 21 >1.41
+coarsening 2 vertices
+28350 tets, quality [0.20,1.00], 80 in [0.20,0.30], 28270 >0.30
+36005 edges, length [0.28,2.40], 2636 <0.71, 33348 in [0.71,1.41], 21 >1.41
+laplacian solve took 64 iterations
+addressing element qualities
+swapping 547 3D edges
+28337 tets, quality [0.20,1.00], 10 in [0.20,0.30], 28327 >0.30
+35992 edges, length [0.28,2.14], 2647 <0.71, 33212 in [0.71,1.41], 133 >1.41
+swapping 39 3D edges
+28329 tets, quality [0.30,1.00], 28329 >0.30
+35984 edges, length [0.28,2.02], 2647 <0.71, 33204 in [0.71,1.41], 133 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 185
+0.40-0.50: 543
+0.50-0.60: 1682
+0.60-0.70: 4616
+0.70-0.80: 8381
+0.80-0.90: 9191
+0.90-1.00: 3731
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 32
+0.40-0.60: 780
+0.60-0.80: 6642
+0.80-1.00: 10190
+1.00-1.20: 10119
+1.20-1.40: 7669
+1.40-1.60: 536
+1.60-1.80: 13
+1.80-2.00: 2
+addressing edge lengths took 0.907648 seconds
+snapping while addressing element qualities took 0.286192 seconds
+adapting took 1.19953 seconds
+
+before adapting:
+28329 tets, quality [0.23,1.00], 33 in [0.20,0.30], 28296 >0.30
+35984 edges, length [0.30,2.68], 1626 <0.71, 31043 in [0.71,1.41], 3315 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 33
+0.30-0.40: 243
+0.40-0.50: 790
+0.50-0.60: 2127
+0.60-0.70: 5092
+0.70-0.80: 8243
+0.80-0.90: 8449
+0.90-1.00: 3352
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 19
+0.40-0.60: 563
+0.60-0.80: 4460
+0.80-1.00: 9440
+1.00-1.20: 9626
+1.20-1.40: 8051
+1.40-1.60: 3479
+1.60-1.80: 317
+1.80-2.00: 20
+addressing edge lengths
+refining 1984 edges
+36547 tets, quality [0.20,1.00], 55 in [0.20,0.30], 36492 >0.30
+46533 edges, length [0.18,2.17], 4933 <0.71, 40265 in [0.71,1.41], 1335 >1.41
+coarsening 1032 vertices
+32661 tets, quality [0.20,1.00], 72 in [0.20,0.30], 32589 >0.30
+41490 edges, length [0.23,2.17], 2711 <0.71, 37451 in [0.71,1.41], 1328 >1.41
+refining 991 edges
+37055 tets, quality [0.20,1.00], 83 in [0.20,0.30], 36972 >0.30
+47002 edges, length [0.20,2.15], 4995 <0.71, 41668 in [0.71,1.41], 339 >1.41
+coarsening 858 vertices
+33774 tets, quality [0.20,1.00], 78 in [0.20,0.30], 33696 >0.30
+42771 edges, length [0.27,2.15], 3014 <0.71, 39419 in [0.71,1.41], 338 >1.41
+refining 290 edges
+35085 tets, quality [0.20,1.00], 83 in [0.20,0.30], 35002 >0.30
+44388 edges, length [0.19,2.15], 3742 <0.71, 40598 in [0.71,1.41], 48 >1.41
+coarsening 319 vertices
+33802 tets, quality [0.20,1.00], 86 in [0.20,0.30], 33716 >0.30
+42763 edges, length [0.30,2.15], 2956 <0.71, 39759 in [0.71,1.41], 48 >1.41
+refining 40 edges
+33966 tets, quality [0.20,1.00], 92 in [0.20,0.30], 33874 >0.30
+42969 edges, length [0.28,2.15], 3065 <0.71, 39896 in [0.71,1.41], 8 >1.41
+coarsening 64 vertices
+33684 tets, quality [0.20,1.00], 83 in [0.20,0.30], 33601 >0.30
+42620 edges, length [0.30,2.15], 2900 <0.71, 39712 in [0.71,1.41], 8 >1.41
+refining 1 edges
+33688 tets, quality [0.20,1.00], 84 in [0.20,0.30], 33604 >0.30
+42625 edges, length [0.30,2.15], 2903 <0.71, 39715 in [0.71,1.41], 7 >1.41
+coarsening 14 vertices
+33621 tets, quality [0.20,1.00], 83 in [0.20,0.30], 33538 >0.30
+42542 edges, length [0.30,2.15], 2876 <0.71, 39659 in [0.71,1.41], 7 >1.41
+coarsening 2 vertices
+33610 tets, quality [0.20,1.00], 82 in [0.20,0.30], 33528 >0.30
+42529 edges, length [0.30,2.15], 2870 <0.71, 39652 in [0.71,1.41], 7 >1.41
+laplacian solve took 70 iterations
+addressing element qualities
+swapping 570 3D edges
+33613 tets, quality [0.20,1.00], 13 in [0.20,0.30], 33600 >0.30
+42532 edges, length [0.30,2.15], 2876 <0.71, 39538 in [0.71,1.41], 118 >1.41
+swapping 35 3D edges
+33609 tets, quality [0.28,1.00], 4 in [0.20,0.30], 33605 >0.30
+42528 edges, length [0.30,1.78], 2878 <0.71, 39531 in [0.71,1.41], 119 >1.41
+swapping 8 3D edges
+33612 tets, quality [0.29,1.00], 2 in [0.20,0.30], 33610 >0.30
+42531 edges, length [0.30,1.77], 2879 <0.71, 39535 in [0.71,1.41], 117 >1.41
+swapping 1 3D edges
+33611 tets, quality [0.30,1.00], 1 in [0.20,0.30], 33610 >0.30
+42530 edges, length [0.30,1.77], 2878 <0.71, 39535 in [0.71,1.41], 117 >1.41
+coarsening 3 vertices
+33597 tets, quality [0.30,1.00], 33597 >0.30
+42512 edges, length [0.30,1.77], 2875 <0.71, 39516 in [0.71,1.41], 121 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 199
+0.40-0.50: 608
+0.50-0.60: 1918
+0.60-0.70: 5295
+0.70-0.80: 9899
+0.80-0.90: 11102
+0.90-1.00: 4576
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 28
+0.40-0.60: 841
+0.60-0.80: 7667
+0.80-1.00: 12025
+1.00-1.20: 11837
+1.20-1.40: 9405
+1.40-1.60: 695
+1.60-1.80: 14
+1.80-2.00: 0
+addressing edge lengths took 0.796332 seconds
+snapping while addressing element qualities took 0.626708 seconds
+adapting took 1.4313 seconds
+
+before adapting:
+33597 tets, quality [0.23,1.00], 17 in [0.20,0.30], 33580 >0.30
+42512 edges, length [0.33,2.14], 1784 <0.71, 36423 in [0.71,1.41], 4305 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 17
+0.30-0.40: 276
+0.40-0.50: 905
+0.50-0.60: 2470
+0.60-0.70: 5908
+0.70-0.80: 9679
+0.80-0.90: 10255
+0.90-1.00: 4087
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 19
+0.40-0.60: 555
+0.60-0.80: 4922
+0.80-1.00: 11174
+1.00-1.20: 11042
+1.20-1.40: 9890
+1.40-1.60: 4406
+1.60-1.80: 459
+1.80-2.00: 39
+addressing edge lengths
+refining 2544 edges
+44096 tets, quality [0.21,1.00], 47 in [0.20,0.30], 44049 >0.30
+56012 edges, length [0.20,2.08], 5994 <0.71, 48253 in [0.71,1.41], 1765 >1.41
+coarsening 1273 vertices
+39358 tets, quality [0.20,1.00], 70 in [0.20,0.30], 39288 >0.30
+49816 edges, length [0.25,2.08], 3229 <0.71, 44827 in [0.71,1.41], 1760 >1.41
+refining 1275 edges
+45178 tets, quality [0.20,1.00], 89 in [0.20,0.30], 45089 >0.30
+57020 edges, length [0.19,1.87], 6094 <0.71, 50440 in [0.71,1.41], 486 >1.41
+coarsening 1057 vertices
+41087 tets, quality [0.20,1.00], 81 in [0.20,0.30], 41006 >0.30
+51792 edges, length [0.25,1.87], 3647 <0.71, 47659 in [0.71,1.41], 486 >1.41
+refining 422 edges
+42997 tets, quality [0.20,1.00], 89 in [0.20,0.30], 42908 >0.30
+54148 edges, length [0.23,1.71], 4717 <0.71, 49367 in [0.71,1.41], 64 >1.41
+coarsening 441 vertices
+41230 tets, quality [0.20,1.00], 101 in [0.20,0.30], 41129 >0.30
+51917 edges, length [0.29,1.71], 3638 <0.71, 48215 in [0.71,1.41], 64 >1.41
+refining 58 edges
+41490 tets, quality [0.20,1.00], 104 in [0.20,0.30], 41386 >0.30
+52235 edges, length [0.19,1.52], 3800 <0.71, 48429 in [0.71,1.41], 6 >1.41
+coarsening 102 vertices
+41047 tets, quality [0.20,1.00], 99 in [0.20,0.30], 40948 >0.30
+51689 edges, length [0.29,1.52], 3547 <0.71, 48136 in [0.71,1.41], 6 >1.41
+refining 3 edges
+41060 tets, quality [0.20,1.00], 99 in [0.20,0.30], 40961 >0.30
+51705 edges, length [0.29,1.52], 3558 <0.71, 48144 in [0.71,1.41], 3 >1.41
+coarsening 16 vertices
+40986 tets, quality [0.20,1.00], 99 in [0.20,0.30], 40887 >0.30
+51615 edges, length [0.29,1.52], 3523 <0.71, 48089 in [0.71,1.41], 3 >1.41
+laplacian solve took 92 iterations
+addressing element qualities
+swapping 713 3D edges
+40981 tets, quality [0.23,1.00], 16 in [0.20,0.30], 40965 >0.30
+51610 edges, length [0.29,1.78], 3542 <0.71, 47934 in [0.71,1.41], 134 >1.41
+swapping 65 3D edges
+40970 tets, quality [0.23,1.00], 2 in [0.20,0.30], 40968 >0.30
+51599 edges, length [0.29,1.78], 3542 <0.71, 47912 in [0.71,1.41], 145 >1.41
+swapping 2 3D edges
+40970 tets, quality [0.29,1.00], 1 in [0.20,0.30], 40969 >0.30
+51599 edges, length [0.29,1.78], 3542 <0.71, 47912 in [0.71,1.41], 145 >1.41
+coarsening 4 vertices
+40956 tets, quality [0.30,1.00], 40956 >0.30
+51578 edges, length [0.29,1.97], 3536 <0.71, 47889 in [0.71,1.41], 153 >1.41
+quality histogram:
+0.00-0.10: 0
+0.10-0.20: 0
+0.20-0.30: 0
+0.30-0.40: 227
+0.40-0.50: 638
+0.50-0.60: 2147
+0.60-0.70: 6449
+0.70-0.80: 12112
+0.80-0.90: 13654
+0.90-1.00: 5729
+length histogram:
+0.00-0.20: 0
+0.20-0.40: 41
+0.40-0.60: 965
+0.60-0.80: 9454
+0.80-1.00: 14678
+1.00-1.20: 13997
+1.20-1.40: 11624
+1.40-1.60: 787
+1.60-1.80: 30
+1.80-2.00: 2
+addressing edge lengths took 1.01327 seconds
+snapping while addressing element qualities took 0.575018 seconds
+adapting took 1.59777 seconds
+
+total time: 9.16567 seconds
+ EGADS Info: 0 Objects, 0 Reference in Use (of 175) at Close!
