@@ -1,5 +1,9 @@
 #! /usr/bin/env bash
 
+set -x # echo commands
+set -e # exit on first error
+set -u # Treat unset variables as error
+
 meshb=$1
 metric=temp.metric
 hmin=0.001
