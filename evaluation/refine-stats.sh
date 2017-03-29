@@ -6,9 +6,9 @@ set -u # Treat unset variables as error
 
 meshb=$1
 metric=temp.metric
-hmin=0.001
+field=`basename "$PWD"`
 
-ref_acceptance ${meshb} ${metric} ${hmin}
+ref_acceptance -ugawg ${field} ${meshb} ${metric}
 ref_metric_test ${meshb} ${metric} > status.txt
 
 gnuplot ref_histogram_edge-ratio.gnuplot
