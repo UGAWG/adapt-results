@@ -1,7 +1,7 @@
-#!/bin/bash -ex
+#!/bin/bash -e
 
 PROG=$HOME/build/gcc/omega_h/src/ugawg_stats
-COMARGS="-n 17 17 -h 0.35 2.25"
+COMARGS="-n 25 25 -h 0 2.5"
 
 for DIR in */cube/linear/
 do
